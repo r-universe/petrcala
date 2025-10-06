@@ -5,3 +5,7 @@
 [submodule "artma"]
 	path = artma
 	url = https://github.com/petrcala/artma
+[submodule "climenu"]
+	path = climenu
+	url = https://github.com/PetrCala/climenu
+	registered = false
