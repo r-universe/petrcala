@@ -1,12 +1,5 @@
 [
   {
-    "package": "MAIVE",
-    "url": "https://github.com/PetrCala/maive",
-    "via": ["artma"],
-    "branch": "0.0.2.11",
-    "from": "artma"
-  },
-  {
     "package": "climenu",
     "url": "https://github.com/PetrCala/climenu",
     "via": ["artma"],
