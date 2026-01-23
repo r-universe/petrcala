@@ -8,5 +8,5 @@
 [submodule "climenu"]
 	path = climenu
 	url = https://github.com/PetrCala/climenu
-	branch = 0.1.1
+	branch = 0.1.2
 	registered = false
