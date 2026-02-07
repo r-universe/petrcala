@@ -7,6 +7,4 @@
 	url = https://github.com/petrcala/artma
 [submodule "climenu"]
 	path = climenu
-	url = https://github.com/PetrCala/climenu
-	branch = 0.1.2
-	registered = false
+	url = https://github.com/petrcala/climenu
